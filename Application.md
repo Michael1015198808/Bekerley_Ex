@@ -6,6 +6,10 @@
 <br /><br /><br /><br /><br />
 
 ### [项目简介](http://stuex.nju.edu.cn/a/changqixiangmu/20190312/2490.html)
+#### 主观性较强的补充
+面试内容就是先听一段英文TED，记下几个关键论点。
+然后有老师一对一面试，面试内容和TED无关
+面试难度并不大，几乎没有被刷掉的同学
 <br /><br /><br /><br /><br />
 ### [申请链接](http://elite.nju.edu.cn/exchangesystem/)
 ##### 填完之后可以更改，所以不必太担心
