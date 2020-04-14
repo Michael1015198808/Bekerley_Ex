@@ -5,7 +5,7 @@
 <br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
 
-### [项目简介](http://stuex.nju.edu.cn/a/changqixiangmu/20190312/2490.html)
+### [项目简介](https://stuex.nju.edu.cn/35/c7/c2553a341447/page.htm)
 #### 主观性较强的补充
 面试内容就是先听一段英文TED，记下几个关键论点。
 然后有老师一对一面试，面试内容和TED无关
